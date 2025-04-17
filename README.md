@@ -53,3 +53,9 @@ Train different collaborative filtering models
 Evaluate performance using RMSE, MAE, and R² Score
 
 Recommend books based on trained models and title similarity
+
+
+Group Members:- 
+              Neha Mahajan  
+              jasmine Kaur
+              Kumkum Kumari 
